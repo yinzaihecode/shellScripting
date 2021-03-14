@@ -4,6 +4,7 @@
 cd shellclass
 cd localusers
 vagrant up
+
 ```
 
 > exit value
